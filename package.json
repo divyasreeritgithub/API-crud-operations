@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}

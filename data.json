@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "redme note 11",
+      "price": "49000",
+      "category": "mobiles",
+      "id": 1
+    },
+    {
+      "name": "vivo v20",
+      "price": "2000",
+      "category": "mobiles",
+      "id": 2
+    },
+    {
+      "name": "samsung galaxy s32",
+      "price": "25000",
+      "category": "mobiles",
+      "id": 3
+    }
+  ]
+}
